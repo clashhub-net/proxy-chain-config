@@ -93,3 +93,16 @@ dns:
 ## License
 
 CC BY-NC-SA 4.0
+
+## Multi-Hop Examples
+
+Two-hop:
+HK -> JP -> Target
+
+Three-hop:
+HK -> JP -> US -> Target
+
+Best practices:
+- 2 hops for daily browsing
+- 3 hops for sensitive tasks
+- Single hop for downloads
